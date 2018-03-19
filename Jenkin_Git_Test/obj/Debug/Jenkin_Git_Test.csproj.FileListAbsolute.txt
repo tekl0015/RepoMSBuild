@@ -1,0 +1,6 @@
+C:\Users\stekleab\source\repos\Jenkin_Git_Test\Jenkin_Git_Test\bin\Debug\Jenkin_Git_Test.exe.config
+C:\Users\stekleab\source\repos\Jenkin_Git_Test\Jenkin_Git_Test\bin\Debug\Jenkin_Git_Test.exe
+C:\Users\stekleab\source\repos\Jenkin_Git_Test\Jenkin_Git_Test\bin\Debug\Jenkin_Git_Test.pdb
+C:\Users\stekleab\source\repos\Jenkin_Git_Test\Jenkin_Git_Test\obj\Debug\Jenkin_Git_Test.csprojResolveAssemblyReference.cache
+C:\Users\stekleab\source\repos\Jenkin_Git_Test\Jenkin_Git_Test\obj\Debug\Jenkin_Git_Test.exe
+C:\Users\stekleab\source\repos\Jenkin_Git_Test\Jenkin_Git_Test\obj\Debug\Jenkin_Git_Test.pdb
