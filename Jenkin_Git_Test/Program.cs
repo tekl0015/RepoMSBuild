@@ -23,7 +23,7 @@ namespace Jenkin_Git_Test
                 LogFileWriter.WriteLine("Main: Jenkins - MSBuild - :" + i + Environment.NewLine);
             }
 
-            Console.WriteLine("...........................");
+            Console.WriteLine("##################################");
             LogFileWriter.Flush();
             LogFileWriter.Close();
         }
