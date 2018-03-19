@@ -18,7 +18,7 @@ namespace Jenkin_Git_Test
             StreamWriter LogFileWriter = new StreamWriter(LogFileStream);
             
 
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 3; i++)
             {
                 LogFileWriter.WriteLine("Main: Jenkins - MSBuild - :" + i + Environment.NewLine);
             }
