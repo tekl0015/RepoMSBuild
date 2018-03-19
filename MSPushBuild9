@@ -1,0 +1,19 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6E80-1FCF
+
+ Directory of C:\Users\stekleab\source\repos\Jenkin_Git_Test
+
+03/19/2018  12:26 PM    <DIR>          .
+03/19/2018  12:26 PM    <DIR>          ..
+03/19/2018  12:03 PM    <DIR>          Jenkin_Git_Test
+03/19/2018  09:10 AM             1,012 Jenkin_Git_Test.sln
+03/19/2018  11:13 AM               663 MSPushBuild4
+03/19/2018  11:15 AM               716 MSPushBuild5
+03/19/2018  11:33 AM               769 MSPushBuild6
+03/19/2018  12:22 PM               822 MSPushBuild7
+03/19/2018  12:26 PM                 0 MSPushBuild9
+03/19/2018  10:33 AM               487 README.md
+03/19/2018  10:49 AM               547 TestJenkisBuild.txt
+03/19/2018  11:01 AM               610 TestJenkisBuild222.txt
+               9 File(s)          5,626 bytes
+               3 Dir(s)  102,195,961,856 bytes free
