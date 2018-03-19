@@ -13,6 +13,7 @@ namespace Jenkin_Git_Test
 
             for (int i = 0; i < 5; i++)
                 Console.WriteLine("Main: Jenkins - MSBuild - :" + i);
+            Console.ReadKey();
         }
     }
 }
